@@ -1,4 +1,4 @@
-# Digital-Image-Processing-Hw1
+# Digital Image Processing Homework 1
 
 There are two parts in this homework:
 
